@@ -16,3 +16,4 @@ and <a href="https://en.wikipedia.org/wiki/Proxy_pattern">Wikipedia.</a>
 - [x] Check `RealImage.java` how image is displayed.
 - [x] Complete Task 3 using Proxy pattern.
 - [x] Submit a link to GitHub with tests and a GitHub Action file.
+
